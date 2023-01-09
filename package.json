@@ -17,7 +17,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
+    "@11ty/eleventy": "^1.0.2",
     "del-cli": "^4.0.1",
     "prettier": "2.5.1",
     "release-it": "^14.11.8"
