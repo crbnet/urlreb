@@ -20,7 +20,7 @@
     "@11ty/eleventy": "^0.12.1",
     "del-cli": "^4.0.1",
     "prettier": "2.5.1",
-    "release-it": "^14.11.8"
+    "release-it": "^15.6.0"
   },
   "engines": {
     "node": ">=12"
